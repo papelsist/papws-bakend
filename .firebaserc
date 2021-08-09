@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "papx-ws-dev",
+    "dev": "papx-ws-dev",
+    "prod": "papx-ws-prod",
+    "cert": "papx-ws-dev"
+  }
+}
